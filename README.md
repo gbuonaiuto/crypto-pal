@@ -17,7 +17,7 @@ We developed a fiat proxy, integrated with Wyre for KYC / AML verification, that
 Integration with DEX - because of the logic and how it works.
 
 ## Accomplishments that we're proud of
-Creating fiat proxy based on Wyre - one of the prizes ;) ;) ;)
+Creating fiat proxy based on Wyre
 
 ## What we learned
 Integrations, knowledge about a plethora of new alternative protocols and startups that are creating the infrastructure needed to make the creation of apps faster and more secure.
